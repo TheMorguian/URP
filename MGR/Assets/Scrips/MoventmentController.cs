@@ -74,7 +74,7 @@ public class MoventmentController : MonoBehaviour
         gravity -= 9.8f * Time.deltaTime;
         gravity = gravity * gravityMultipler;
 
-        Vector3 moveDirection = desiredMoveDirection * (movementSpeed*Time.deltaTime);
+        Vector3 moveDirection = desiredMoveDirection * (movementSpeed*Time.deltaTime)*0.08f;
         moveDirection = new Vector3  (moveDirection.x, gravity, moveDirection.z);
         
         characterController.Move(moveDirection);
