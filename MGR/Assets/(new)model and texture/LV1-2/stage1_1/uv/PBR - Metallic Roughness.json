@@ -33,13 +33,28 @@
         }
     },
     "texturesets": {
+        "aiStandardSurface11": {
+            "shader": "Main shader"
+        },
         "f2": {
             "shader": "Main shader"
         },
         "floor": {
             "shader": "Main shader"
         },
+        "light": {
+            "shader": "Main shader"
+        },
         "main": {
+            "shader": "Main shader"
+        },
+        "shelf1": {
+            "shader": "Main shader"
+        },
+        "shelf2": {
+            "shader": "Main shader"
+        },
+        "underpass": {
             "shader": "Main shader"
         }
     }

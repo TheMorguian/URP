@@ -3,7 +3,12 @@ guid: db8547937f0c90a4f944e1af30b82b77
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vrets
+    second: {fileID: 2100000, guid: bc82af38a682ee54a95540ba08b0f4b7, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

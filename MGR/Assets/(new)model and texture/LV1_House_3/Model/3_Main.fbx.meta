@@ -3,7 +3,42 @@ guid: 051c74ab8253e5c4ba54697143003c82
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock
+    second: {fileID: 2100000, guid: ed7be63dacf41764caa6dc49a1efe93b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign_light
+    second: {fileID: 2100000, guid: 1902460b6110c0e47a0fbf60c1ca0b69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall3
+    second: {fileID: 2100000, guid: 569bbbc8bc2e02347b2b8528ad22221d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 70cd120866bfad4479877fb5eefc9381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 2fbabf6a1829bc84595071ce720fb899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: 0de35ee46d4bf144ea3c59d4e6f8767e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: waterpie
+    second: {fileID: 2100000, guid: f40dcf2f46fc0324482589e14b358172, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

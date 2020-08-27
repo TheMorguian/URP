@@ -3,7 +3,52 @@ guid: dc18ea1d5753a844ca2c51a6bee69105
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock
+    second: {fileID: 2100000, guid: da3538bad822b3a4ba5b2bcd1de5b43d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vrets
+    second: {fileID: 2100000, guid: 80ca54647919223438c73ece42b40f9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall3
+    second: {fileID: 2100000, guid: 8c65b2b3c23814240aaa395e84512ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door
+    second: {fileID: 2100000, guid: cb541e84e3fb85b418e177e71a2812ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 6aba4d9e1dc3d7f4f9d29e51fc1910ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17
+    second: {fileID: 2100000, guid: 462fd94971943d04ba242d177d2419e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: fe527c8932bb8534b83baa03fe623162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall1
+    second: {fileID: 2100000, guid: 3ea6ee6f1c9096d47892012e4da879bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: waterpie
+    second: {fileID: 2100000, guid: bb1f39e2b66f2ef4e9e810273592fd56, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
