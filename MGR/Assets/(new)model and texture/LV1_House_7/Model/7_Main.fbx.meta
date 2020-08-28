@@ -3,52 +3,7 @@ guid: a3038ba78e73ddd44a1020b9f11792e5
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Canopy
-    second: {fileID: 2100000, guid: bd7d4402c51e346409d03543d3dd37e5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rock
-    second: {fileID: 2100000, guid: be1523325fb925245a53894ac306936e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Sign_light
-    second: {fileID: 2100000, guid: 5026c60c55228074ca8d5ba56d63e365, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Vrets
-    second: {fileID: 2100000, guid: 274d397e4dd557142b7cc829348130da, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: door
-    second: {fileID: 2100000, guid: 7334d69eb66788f4e8dfe84a2a98b74a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: glass
-    second: {fileID: 2100000, guid: d589ff2b7cf21d942ac23f9116644466, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: light
-    second: {fileID: 2100000, guid: 0874381b441715f439c5c1470db1f7ef, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: wall
-    second: {fileID: 2100000, guid: c83fd6222bd64604cb32d09f54a9ced8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: wall1
-    second: {fileID: 2100000, guid: 253caf49ce6a7b940aa92075f5195429, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0

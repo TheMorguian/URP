@@ -3,22 +3,7 @@ guid: 976441dd9cab03f4eafaf929c2bfd865
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: b5O
-    second: {fileID: 2100000, guid: 6fb13c1ee3a80384ebe412ec4616a9c2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: b5ladder
-    second: {fileID: 2100000, guid: 51df078a8e93c0d468c615122ad45075, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: b5main
-    second: {fileID: 2100000, guid: 3486a840e343ccd47836bb8f48a5b139, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0

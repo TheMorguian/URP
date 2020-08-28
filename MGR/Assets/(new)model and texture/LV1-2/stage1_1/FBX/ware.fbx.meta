@@ -1,44 +1,9 @@
 fileFormatVersion: 2
-guid: abd28bce4e0709b41b6dc19d504a47b9
+guid: 1ec0ddf7640980d43bdac58cebcb7c72
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: f2
-    second: {fileID: 2100000, guid: 3e1c38d21b888c34d9c8943c654331c6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: floor
-    second: {fileID: 2100000, guid: 5484085e80b578f4e860b3a63dfcefbf, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: light
-    second: {fileID: 2100000, guid: bbd65cf3dda92ea4da24e44e2db08eed, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: main
-    second: {fileID: 2100000, guid: 369782475a2c5ce48b15e0c3d5debfbe, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: shelf1
-    second: {fileID: 2100000, guid: 863f93c0fd3370d4095b501fd130ee37, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: shelf2
-    second: {fileID: 2100000, guid: 2a02822d48c96fe45a9d78de1daabea2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: underpass
-    second: {fileID: 2100000, guid: 3f0e59432f2ad4d4a8de64c0ee2d5e12, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
